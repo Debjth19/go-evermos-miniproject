@@ -17,7 +17,7 @@ Ini adalah implementasi API untuk virtual internship Evermos menggunakan Go (Fib
     JWT_SECRET=buat_secret_jwt_panjang_dan_acak_anda_sendiri_disini
     ```
 5.  Jalankan `go mod tidy` untuk menginstal semua dependensi.
-6.  Jalankan server: go run main.go
+6.  Jalankan server: `go run main.go`
 7.  Server akan berjalan di `http://localhost:8000`.
 
 ## 🧪 Pengujian
